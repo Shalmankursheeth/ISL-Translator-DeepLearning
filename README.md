@@ -9,7 +9,7 @@ A deep learning-based translator for Indian Sign Language (ISL) that converts si
   - TensorFlow / Keras
   - NumPy
   - OpenCV (if used)
-- **Model:** CNN-based model for proactive feature embedding.
+- **Model:** CNN-based model for prototypic feature embedding.
 
 ## 🧠 Key Features
 
